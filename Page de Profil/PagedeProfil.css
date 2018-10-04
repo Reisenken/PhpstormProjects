@@ -1,0 +1,55 @@
+body {
+    background-color: darkslategrey;
+    font-size: 20px;
+}
+
+h1, h3 {
+    color: whitesmoke;
+    text-align: center;
+}
+h4 {
+    color: black;
+}
+div {
+    background-color: dimgray;
+
+}
+
+.Description{
+    width: 70%;
+    margin:auto;
+    padding: 6px;
+    color: whitesmoke;
+
+}
+
+img {
+    position: fixed;
+    left:50px; top:10px;
+
+}
+
+p{
+    margin: 4px;
+}
+
+.listes {
+    margin: auto;
+    width: 75%;
+
+}
+
+.entete {
+    position: center;
+    margin: auto;
+    font-size: 30px;
+    height: 200px;
+}
+#Films, #Sports, #Livres {
+    display: inline-block;
+    margin: auto;
+    color: whitesmoke;
+    width: 30%;
+    border-left: 2px dashed rgb(161, 161, 161);
+    border-top: 2px dashed rgb(161, 161, 161);
+}
