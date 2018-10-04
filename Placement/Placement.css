@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: black;
+    color: white;
+    display: inline;
+}
+h1 {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+span {
+    text-align: center;
+    color: darkorange;
+}
+div {
+    border: 3px solid rgb(160,131,15);
+    width: 200px;
+
+}
+img {
+    height: 120px;
+    border: 4px outset darkgrey;
+}
+ul {
+    list-style: none;
+}
+#table1 {
+    display: table-cell;
+    width: 200px;
+    left:400px;
+    position: absolute;
+}
+#table2 {
+    display: table-cell;
+    width: 200px;
+    left: 600px;
+    position: relative;
+}
+#table3 {
+    display: table-cell;
+    width: 200px;
+    left: 825px;
+    position : absolute;
+
+}
+#table4 {
+    display: table-cell;
+    width: 200px;
+    left: 1025px;
+    position : relative;
+    display: ;
+
+
+}
+#total1 {
+    position : absolute;
+}
+#total2 {
+    
+}
+#principal{
+    margin: auto;
+}
