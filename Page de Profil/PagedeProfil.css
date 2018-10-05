@@ -48,6 +48,13 @@ p{
     height: 200px;
 }
 
+.Sociaux {
+    position: center;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
 #Films, #Sports, #Livres {
     display: inline-block;
     margin: auto;
@@ -55,12 +62,7 @@ p{
     border-left: 2px dashed rgb(0, 0, 0);
     border-top: 2px dashed rgb(0, 0, 0);
 }
-.Sociaux {
-    position: center;
-    width: 60%;
-    margin: auto;
-    text-align: center;
-}
+
 .Sociaux, .entete {
     border: 2px solid whitesmoke;
 }
